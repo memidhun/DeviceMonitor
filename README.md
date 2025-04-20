@@ -51,7 +51,7 @@ It showcases basic principles of desktop application development, sensor data si
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your app window here if you want!)*
+![Device Monitor Application](Screenshots/screenshot.png)
 
 ---
 
