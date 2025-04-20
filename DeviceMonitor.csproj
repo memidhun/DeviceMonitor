@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net472</TargetFramework> <!-- .NET Framework 4.7.2 -->
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>DeviceMonitor</RootNamespace>
+    <AssemblyName>DeviceMonitor</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Form1.cs" />
+    <Compile Include="Form1.Designer.cs" />
+    <Compile Include="SensorSimulator.cs" />
+  </ItemGroup>
+
+</Project>
