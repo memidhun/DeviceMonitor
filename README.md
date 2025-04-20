@@ -3,16 +3,6 @@
 DeviceMonitor is a simple yet powerful C# Windows Forms Application designed to simulate and monitor sensor data in real time.  
 It showcases basic principles of desktop application development, sensor data simulation, and user interface design using C# and .NET Framework.
 
-- **DeviceMonitor.sln**: Solution file for Visual Studio.
-- **README.md**: This file you are reading.
-- **LICENSE**: License for the project (optional, but recommended).
-- **DeviceMonitor/**: Main project folder containing code files:
-  - **Program.cs**: Entry point for the application.
-  - **Form1.cs**: Main logic and event handlers.
-  - **Form1.Designer.cs**: UI design (Windows Forms).
-  - **SensorSimulator.cs**: Random sensor data generation.
-  - **Properties/AssemblyInfo.cs**: Metadata for the project.
-
 ---
 
 ## ✨ Features
@@ -26,7 +16,15 @@ It showcases basic principles of desktop application development, sensor data si
 ---
 
 ## 📂 Project Structure
-
+- **DeviceMonitor.sln**: Solution file for Visual Studio.
+- **README.md**: This file you are reading.
+- **LICENSE**: License for the project (optional, but recommended).
+- **DeviceMonitor/**: Main project folder containing code files:
+  - **Program.cs**: Entry point for the application.
+  - **Form1.cs**: Main logic and event handlers.
+  - **Form1.Designer.cs**: UI design (Windows Forms).
+  - **SensorSimulator.cs**: Random sensor data generation.
+  - **Properties/AssemblyInfo.cs**: Metadata for the project.
 ---
 
 ## 🛠️ How It Works
